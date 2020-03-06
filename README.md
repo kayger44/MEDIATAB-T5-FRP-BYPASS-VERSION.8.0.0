@@ -1,6 +1,4 @@
 
- ![Screenshot](https://nr1.nu/archive/mediatab/pictures/s/Hackdroid.png)
-
  ![Screenshot](https://androidcommunity.com/wp-content/uploads/2015/10/Hackdroid.png)
 
 # HUAWEI-MEDIATAB-T5-FRP-BYPASS-V.8.0.0.
