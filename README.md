@@ -10,7 +10,7 @@ since they have removed this button on version 8 so we must do it on a completel
 
  ### Why we must unlock it twice?
 
-   If you wont "unlock" the device with the workaround i provide below you will get "unlock device" for every setting you trying press on so without the above step being done you cant bypass the device.
+   If you wont "unlock" the device with the workaround i provide below you will get "unlock device before you can move further" for every setting you trying press on so without the above step being done you cant bypass the device.
 
 
 # You must follow this guide from begin to end else it wont succeed!!
